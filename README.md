@@ -1,4 +1,4 @@
-# Program TI devices using Uniflash
+# Program TI devices using UniFlash
 CCS Uniflash is a standalone tool used to program on-chip flash memory on TI MCUs and on-board flash memory for Sitara processors. Uniflash has a GUI, command line, and scripting interface. CCS Uniflash is available free of charge.<br>
 Okay! Now let’s see how to program on-chip flash memory using Uniflash.<br>
 For more details refer [TI's Website](https://www.ti.com/tool/UNIFLASH)
