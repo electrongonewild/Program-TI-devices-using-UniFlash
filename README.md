@@ -11,8 +11,8 @@ Follow the steps for getting started:
 * Then load image in CPU1 and CPU2 respectively
 
 ## Implementation
-![Alt text](Images/DebugUniFlash.png?raw=true "Title")<br>
-![Alt text](Images/UniFlashConfig.png?raw=true "Title")<br>
+![Alt text](Images/UniFlashConfig.png?raw=true "Title")<br><br>
+![Alt text](Images/DebugUniFlash.png?raw=true "Title")<br><br>
 ## Contributions
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
