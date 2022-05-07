@@ -4,8 +4,11 @@ Okay! Now let’s see how to program on-chip flash memory using Uniflash.<br>
 For more details refer [TI's Website](https://www.ti.com/tool/UNIFLASH)
 
 Follow the steps for getting started:
-* Connect the debugger with the device you want to program.
-* Open UniFlash
+* Connect the debugger with the device you want to program
+* Open UniFlash and enter device name and choose your connection under new configuration
+* Then click start button
+* Browse OUT File for CPU1 and CPU2 which you want to progarm
+* Then load image in CPU1 and CPU2 respectively
 
 ## Implementation
 ![Alt text](Images/RFID.png?raw=true "Title")
